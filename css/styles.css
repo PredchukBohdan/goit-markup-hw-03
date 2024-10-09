@@ -145,9 +145,8 @@ a,
 .header .header-nav-link {
   font-weight: 500;
   color: #2e2f42;
-}
-.header .header-nav-item {
   padding: 24px 0;
+  display: block;
 }
 
 .header .header-nav-link:hover,
@@ -191,7 +190,7 @@ a,
   letter-spacing: 0.02em;
   margin: 0 auto;
   margin-bottom: 48px;
-  max-width: 498px;
+  max-width: 496px;
 }
 .hero-banner-button {
   font-family: "Roboto", sans-serif;
